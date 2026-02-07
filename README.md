@@ -28,4 +28,4 @@ e a biblioteca GSAP.
 
 ## 📚 Observação
 Este projeto foi desenvolvido apenas para fins educacionais.
-Não possui vínculo com marcas reais.
+Não possui vínculo com marcas reais.git add README.md
